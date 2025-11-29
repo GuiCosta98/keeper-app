@@ -21,7 +21,7 @@ os conceitos fundamentais do React.
 ## Como Executar
 
 1. Pré-requisito: Certifique-se de ter o Node.js instalado. 
-2. Clone o repositório: git clone https://github.com/seu-usuario/keeper-app.git
+2. Clone o repositório: git clone https://github.com/GuiCosta98/keeper-app.git
 3. Acesse a pasta do projeto: cd keeper-app
 4. Instale as dependências: npm install 
 5. Execute a aplicação: npm run dev
