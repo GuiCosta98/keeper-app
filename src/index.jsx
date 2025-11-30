@@ -19,15 +19,12 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Header from "./components/heading";
+import App from "./components/app";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 
-root.render(<div>
+root.render(<App />);
 
-    <Header />
-
-</div>);
 
 
